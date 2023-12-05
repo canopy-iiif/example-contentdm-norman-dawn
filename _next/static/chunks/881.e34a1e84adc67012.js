@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(t){t.exports=JSON.parse('{"collection":"https://hrc.contentdm.oclc.org/iiif/2/p15878coll15/manifest.json","featured":["https://cdm15878.contentdm.oclc.org/iiif/2/p15878coll15:131/manifest.json"],"metadata":["Format","Date"]}')}}]);
