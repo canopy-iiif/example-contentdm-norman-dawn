@@ -3,9 +3,5 @@
   "featured": [
     "https://cdm15878.contentdm.oclc.org/iiif/2/p15878coll15:131/manifest.json"
   ],
-  "metadata": ["Format", "Date"],
-  "label": { "none": ["Norman Dawn"] },
-  "summary": {
-    "none": ["Norman O. Dawn (1884–1975) was a relatively obscure yet historically significant early special effects cinematographer, inventor, artist, and motion picture director, writer, and producer."]
-  }
+  "metadata": ["Format", "Date"]
 }
